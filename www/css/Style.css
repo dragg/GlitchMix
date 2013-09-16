@@ -1,0 +1,20 @@
+/* 
+    Document   : start_page
+    Created on : 06.09.2013, 20:09:00
+    Author     : Колян
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+tr, td{
+    margin: 10, 10, 10, 10;
+}
+
+#center { 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -48px;
+    margin-left: -185px;
+}
+
